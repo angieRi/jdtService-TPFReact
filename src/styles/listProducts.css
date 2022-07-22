@@ -1,0 +1,24 @@
+.list-prod {
+    margin-top: 3rem;
+    text-align: center;
+}
+.btnE {
+    margin-right: 1rem;
+}
+..lk {
+    text-decoration: none;
+    color: black;
+}
+.lk:hover {
+    color: #ffffff;
+    border-color: transparent;
+}
+.card-uppdate {
+    margin-top: 3rem;
+    width: 80%;
+
+}
+.title {
+    text-align: center;
+    padding-bottom: 2rem;
+}

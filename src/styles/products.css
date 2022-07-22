@@ -1,0 +1,30 @@
+body {
+    background-color: #fbf8ed;
+}
+h1 {
+    margin: 3rem;
+}
+.buscador {
+    margin-top: 1rem;
+}
+.products {
+    margin-top: 3rem;
+    text-align: center;
+}
+.container_products  {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    gap: 2rem;
+}
+.img-pd {
+    width: 60%;
+    margin: auto;
+}
+.lk {
+    text-decoration: none;
+    color: black;
+}
+.lk:hover {
+    color: #ffffff;
+    border-color: transparent;
+}

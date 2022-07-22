@@ -1,0 +1,27 @@
+body {
+    background-color: #fbf8ed;
+}
+
+.img-jdt {
+    display: block;
+    width: 35%;
+    height: 35%;
+    object-fit: cover;
+    border-radius: 1rem;
+    margin: auto;
+    padding-bottom: 1rem;
+
+}
+.card-prodjdt {
+    margin-top: 2rem;
+    width: 75%;
+    height: 40%;
+    margin-left: 12%;
+
+}
+.prodjdt-bd {
+    text-align: center;
+}
+.buscador {
+    margin-bottom: 2rem;
+}

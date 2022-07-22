@@ -1,0 +1,24 @@
+footer {
+    background:  var(--color-primary);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 7rem;
+}
+
+footer a {
+    color: #022e2e;
+}
+
+.footer_logo{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: inline-block;
+    text-decoration: none;
+}
+.footer_copyright {
+    margin-bottom: 4rem;
+    color:  #105a5f;
+}
+
